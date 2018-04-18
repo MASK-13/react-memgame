@@ -1,0 +1,14 @@
+.Newwrapper {
+  /* padding-top: 50px; */
+  background: #ECEFF1;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 50px 10%;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  background: -webkit-linear-gradient(90deg, rgb(23, 81, 123), rgb(23, 81, 220));
+ background: linear-gradient(90deg, rgb(23, 81, 123), rgb(23, 81, 220));
+  
+}
